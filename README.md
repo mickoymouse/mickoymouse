@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/mickoymouse%20Banner.png">
-
 <h2> Hey there! I'm Micko Silvestre.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -52,8 +50,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/micko-silvestre-1b5b4a188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mckslvstr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/micko-silvestre-1b5b4a188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Micko%20Silvestre%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:mckslvstr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mckslvstr@gmail.com?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
