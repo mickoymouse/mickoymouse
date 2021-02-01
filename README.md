@@ -51,5 +51,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/micko-silvestre-1b5b4a188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Micko%20Silvestre-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mckslvstr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mckslvstr@gmail.com?style=flat-square&logo=gmail"></a>
+<a href="mailto:mckslvstr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mckslvstr@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
